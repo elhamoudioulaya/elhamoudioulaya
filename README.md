@@ -10,7 +10,7 @@ Hi 👋 I'm Oulaya El Hamoudi
 
 ## 👩‍💻 About Me
 
-I'm a future Master's student in Computer Science passionate about building modern software solutions.
+I'm a  Master's student in Computer Science passionate about building modern software solutions.
 
 I enjoy developing scalable full-stack applications, designing REST APIs, working with cloud technologies, and applying Artificial Intelligence to solve real-world problems.
 
