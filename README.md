@@ -106,7 +106,7 @@ After completing a Full-Stack Developer internship at Worldline, I'm currently l
 
 🐙 GitHub: github.com/elhamoudioulaya
 
-[My Portfolio](https://gameboy-portfolio-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🕹️_Portfolio-Play_Now-9bbc0f?style=for-the-badge)](https://gameboy-portfolio-one.vercel.app/)
 
 
 ⭐ Thanks for visiting my profile!
